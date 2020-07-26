@@ -554,7 +554,7 @@ h2 {
         transform:scale(0.8);
     }
 
-    .current {
+    .card {
         -webkit-transform:scale(0.7);
         -moz-transform:scale(0.7);
         -ms-transform:scale(0.7);
@@ -596,7 +596,7 @@ h2 {
         transform:scale(0.7);
     }
 
-    .current {
+    .card {
         -webkit-transform:scale(0.6);
         -moz-transform:scale(0.6);
         -ms-transform:scale(0.6);
