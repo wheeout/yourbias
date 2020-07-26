@@ -319,7 +319,7 @@ h2 {
     grid-gap: 24px;
     width: 50%;
     height: 50%;
-    min-width: 384px;
+    min-width: 300px;
 }
 
 .cardUlt {
@@ -597,10 +597,10 @@ h2 {
     }
 
     .current {
-        -webkit-transform:scale(0.5);
-        -moz-transform:scale(0.5);
-        -ms-transform:scale(0.5);
-        transform:scale(0.5); 
+        -webkit-transform:scale(0.6);
+        -moz-transform:scale(0.6);
+        -ms-transform:scale(0.6);
+        transform:scale(0.6); 
     }
 
     .cardUlt__category {
