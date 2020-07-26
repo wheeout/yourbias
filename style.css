@@ -601,7 +601,8 @@ h2 {
         -moz-transform:scale(0.6);
         -ms-transform:scale(0.6);
         transform:scale(0.6);
-        padding-left: -16px;
+        padding-left: -32px;
+        margin: 0 auto;
     }
 
     .cardUlt__category {
