@@ -118,7 +118,7 @@ h2 {
 
 .current .card {
     margin: 0 auto;
-    display: flex;
+    display: block;
     position: relative;
     width: 500px;
     height: 200px;
