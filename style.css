@@ -573,3 +573,45 @@ h2 {
         grid-template-columns: repeat(2, 1fr);
     }
 }
+
+@media (max-width: 375px) {
+    .container2 {
+        -webkit-transform:scale(0.5);
+        -moz-transform:scale(0.5);
+        -ms-transform:scale(0.5);
+        transform:scale(0.5);
+    }
+
+    .container3 {
+        -webkit-transform:scale(0.5);
+        -moz-transform:scale(0.5);
+        -ms-transform:scale(0.5);
+        transform:scale(0.5);
+    }
+
+    .profile {
+        -webkit-transform:scale(0.7);
+        -moz-transform:scale(0.7);
+        -ms-transform:scale(0.7);
+        transform:scale(0.7);
+    }
+
+    .current {
+        -webkit-transform:scale(0.5);
+        -moz-transform:scale(0.5);
+        -ms-transform:scale(0.5);
+        transform:scale(0.5); 
+    }
+
+    .cardUlt__category {
+        font-size: 8px;
+    }
+    
+    .cardUlt__heading {
+        font-size: 16px;
+    }
+
+    .cardUlt-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
