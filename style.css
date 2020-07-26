@@ -604,8 +604,7 @@ h2 {
     }
     
     .current .card {
-        display: block;
-        margin: 0 auto;
+        left: -16px
     }
 
     .cardUlt__category {
