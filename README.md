@@ -1,1 +1,1 @@
-# wheeout.github.io
+A simple non-responsive web page that display your favorite K-pop artists in a beautiful and modern way.
