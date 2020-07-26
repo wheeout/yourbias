@@ -602,10 +602,6 @@ h2 {
         -ms-transform:scale(0.6);
         transform:scale(0.6);
     }
-    
-    .current .card {
-        left: -64px
-    }
 
     .cardUlt__category {
         font-size: 8px;
